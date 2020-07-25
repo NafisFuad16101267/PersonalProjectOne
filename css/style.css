@@ -1,0 +1,37 @@
+body{
+	background: #ececec
+}
+
+span{
+	font-size: 50px;
+	color: green;
+}
+.el{
+	color: red;
+}
+
+.name {
+    font-size: inherit;
+    color: #72a537;
+    text-transform: capitalize;
+    text-shadow: 5px 5px 5px #3a2e2e;
+}
+
+div {
+    margin-left: auto;
+    width: 300px;
+    margin-right: auto;
+    background: #8257ce;
+    padding: 50px;
+}
+
+img{
+	max-width: 100%
+}
+
+h1{
+	
+font-size: 35px;
+	
+margin-top: 0;
+}
